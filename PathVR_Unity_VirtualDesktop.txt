@@ -1,0 +1,4 @@
+C:\Program Files\Virtual Desktop Streamer\VirtualDesktop.Streamer.exe
+C:\Users\TheFr\OneDrive\Escritorio\VR Template
+C:\Program Files\Unity 2022.3.3f1\Editor\Unity.exe
+"C:\Program Files\Virtual Desktop Streamer\VirtualDesktop.Streamer.exe" "C:\Program Files\Unity 2022.3.3f1\Editor\Unity.exe" -projectpath "C:\Users\TheFr\OneDrive\Escritorio\VR Template -useHub -hubIPC -cloudEnvironment production"
